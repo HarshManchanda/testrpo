@@ -1,2 +1,0 @@
-#New Child
-print("World")
